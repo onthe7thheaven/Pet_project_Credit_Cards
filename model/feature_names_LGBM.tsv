@@ -1,0 +1,54 @@
+children
+inc_total
+age
+years_employed
+work_phone
+phone
+email
+cnt_family_members
+gender_F
+gender_M
+car_N
+car_Y
+realty_N
+realty_Y
+inc_type_Commercial associate
+inc_type_Pensioner
+inc_type_State servant
+inc_type_Student
+inc_type_Working
+edu_Academic degree
+edu_Higher education
+edu_Incomplete higher
+edu_Lower secondary
+edu_Secondary / secondary special
+marital_Civil marriage
+marital_Married
+marital_Separated
+marital_Single / not married
+marital_Widow
+housing_Co-op apartment
+housing_House / apartment
+housing_Municipal apartment
+housing_Office apartment
+housing_Rented apartment
+housing_With parents
+occpn_type_Accountants
+occpn_type_Cleaning staff
+occpn_type_Cooking staff
+occpn_type_Core staff
+occpn_type_Drivers
+occpn_type_HR staff
+occpn_type_High skill tech staff
+occpn_type_IT staff
+occpn_type_Laborers
+occpn_type_Low-skill Laborers
+occpn_type_Managers
+occpn_type_Medicine staff
+occpn_type_Private service staff
+occpn_type_Realty agents
+occpn_type_Sales staff
+occpn_type_Secretaries
+occpn_type_Security staff
+occpn_type_Unknown
+occpn_type_Waiters/barmen staff
